@@ -1,0 +1,5 @@
+KeyId,KeyState,KeyManager,RotationEnabled,KeyCreationDate,KeyAge,NextRotationDate,RotationPeriodInDays,ComplianceStatus
+00aaaa00-38d6-4373-a89a-54d2253d133a,Enabled,AWS,True,2025-12-24 06:11:17.064000+05:30,0,2026-12-24 06:11:17.064000+05:30,365,PASS (AWS-managed)
+04e6f2ac-b8a6-450d-b14e-0da9ee07abec,Enabled,CUSTOMER,False,2025-12-24 06:00:35.772000+05:30,0,N/A,N/A,FAIL (Rotation disabled)
+2bf64816-29b3-4a76-ac30-01e7b3e26a32,Disabled,CUSTOMER,False,2025-12-24 06:04:26.444000+05:30,0,N/A,N/A,FAIL (Rotation disabled)
+cd22c5a0-58e5-4caa-83e8-d17ec9f882de,Enabled,CUSTOMER,True,2025-12-24 05:58:55.132000+05:30,0,2026-03-24 06:02:07.732000+05:30,90,PASS
